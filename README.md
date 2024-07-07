@@ -9,11 +9,28 @@
 ---
 
 ### 🧰 Languages and Tools
-<br>
-<div align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git"/></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /></a>
+
+#### Programming Languages
+<div align="left">
+    <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,javascript"/></a>
 </div>
 
-<br>
+#### Libraries and Frameworks
+<div align="left">
+    <a href="#"><img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind,jquery,flask"/></a>
+</div>
 
+#### Version Control, Hosting & and other tools
+<div align="left">
+    <a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,git,heroku,aws"/></a>
+</div>
+
+#### Databases
+<div align="left">
+    <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql"/></a>
+</div>
+
+---
+
+### 📊 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioc18&theme=tokyonight&show_icons=true)
