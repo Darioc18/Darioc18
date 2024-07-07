@@ -8,9 +8,9 @@ Completed a 12-month Full-stack Software Development diploma at <a href="https:/
 
 I bring skills in project management, problem-solving, and teamwork. Seeking opportunities to leverage my diverse background within a development team to learn, grow, and contribute. 🚴
 
-Get in touch:
+Get in touch: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariocovella/)
+<a href="https://www.linkedin.com/in/dariocovella/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 ---
 
