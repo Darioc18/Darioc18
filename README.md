@@ -38,40 +38,30 @@ Get in touch:
 
 ---
 
-### My recent projects
+### 👷‍♂️ My recent projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+#### Lari Living Home Decor eCommerce
+<a href="https://github.com/your-username/project-one">
+  <img src="./images/pp5.png" alt="Lari Living ECommerce" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
 
-  <div style="flex: 0 0 300px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border-radius: 15px; padding: 10px; text-align: center;">
-    <a href="https://pp5-lari-living-2c9565c3cb2d.herokuapp.com/">
-      <img src="./images/pp5.png" alt="Lari Living ECommerce" style="border-radius: 15px; width: 100%; height: auto;">
-    </a>
-    <p>Lari Living Home Decor eCommerce</p>
-  </div>
+#### Soupa Restaurant
+<a href="https://github.com/your-username/project-two">
+  <img src="./images/pp4.png" alt="Soupa Restaurant" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
 
-  <div style="flex: 0 0 300px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border-radius: 15px; padding: 10px; text-align: center;">
-    <a href="https://pp4-restaurant-booking-system-d75be81c2fba.herokuapp.com/">
-      <img src="./images/pp4.png" alt="Soupa Restaurant" style="border-radius: 15px; width: 100%; height: auto;">
-    </a>
-    <p>Soupa Restaurant</p>
-  </div>
+#### Python Rock Paper Scissors
+<a href="https://github.com/your-username/project-three">
+  <img src="./images/pp3.png" alt="Rock Paper Scissors" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
 
-  <div style="flex: 0 0 300px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border-radius: 15px; padding: 10px; text-align: center;">
-    <a href="https://rock-paper-scissors-pp3-b3c7dd81e311.herokuapp.com/">
-      <img src="./images/pp3.png" alt="Rock Paper Scissors" style="border-radius: 15px; width: 100%; height: auto;">
-    </a>
-    <p>Python Rock Paper Scissors</p>
-  </div>
+#### Memory Game  
+<a href="https://github.com/your-username/project-four">
+  <img src="./images/pp2.png" alt="Memory Game" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
 
-  <div style="flex: 0 0 300px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border-radius: 15px; padding: 10px; text-align: center;">
-    <a href="https://darioc18.github.io/memory-game/">
-      <img src="./images/pp2.png" alt="Memory Game" style="border-radius: 15px; width: 100%; height: auto;">
-    </a>
-    <p>Memory Game</p>
-  </div>
 
 </div>
-
 <br>
 
 Visit my [GitHub Repositories](https://github.com/Darioc18?tab=repositories) to explore and find out more!
