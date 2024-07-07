@@ -38,5 +38,10 @@ Get in touch:
 
 ---
 
+### 📺 My recent projects
+
+
+---
+
 ### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioc18&theme=tokyonight&show_icons=true)
