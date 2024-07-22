@@ -40,23 +40,24 @@ Get in touch:
 
 ### 👷‍♂️ My recent projects
 
-#### Lari Living Home Decor eCommerce
-<a href="https://github.com/your-username/project-one">
+#### Lari Living Home Decor eCommerce | [GitHub Repository](https://github.com/Darioc18/PP5_lari_living)
+
+<a href="https://pp5-lari-living-2c9565c3cb2d.herokuapp.com/">
   <img src="./images/pp5.png" alt="Lari Living ECommerce" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-#### Soupa Restaurant
-<a href="https://github.com/your-username/project-two">
+#### Soupa Restaurant | [GitHub Repository](https://github.com/Darioc18/PP4-restaurant-booking-system)
+<a href="https://pp4-restaurant-booking-system-d75be81c2fba.herokuapp.com/">
   <img src="./images/pp4.png" alt="Soupa Restaurant" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-#### Python Rock Paper Scissors
-<a href="https://github.com/your-username/project-three">
+#### Python Rock Paper Scissors | [GitHub Repository](https://github.com/Darioc18/rock-paper-scissors)
+<a href="https://rock-paper-scissors-pp3-b3c7dd81e311.herokuapp.com/">
   <img src="./images/pp3.png" alt="Rock Paper Scissors" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-#### Memory Game  
-<a href="https://github.com/your-username/project-four">
+#### Memory Game | [GitHub Repository](https://github.com/Darioc18/memory-game)
+<a href="https://darioc18.github.io/memory-game/">
   <img src="./images/pp2.png" alt="Memory Game" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
@@ -64,7 +65,7 @@ Get in touch:
 </div>
 <br>
 
-Visit my [GitHub Repositories](https://github.com/Darioc18?tab=repositories) to explore and find out more!
+Visit my other [GitHub Repositories](https://github.com/Darioc18?tab=repositories) to explore and find out more!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Visit%20My%20Repos-blue?style=for-the-badge&logo=github)](https://github.com/Darioc18?tab=repositories)
 
